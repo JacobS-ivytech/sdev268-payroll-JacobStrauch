@@ -1,0 +1,15 @@
+{
+  "name": "payroll",
+  "version": "1.0.0",
+  "description": "App to gather employee hours and calculate payroll",
+  "license": "ISC",
+  "author": "Jacob Strauch",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
